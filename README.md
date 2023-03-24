@@ -1,5 +1,3 @@
-# Untitled
-
 # Theoretical Analysis of Blocked Matrix Multiplication vs Naive Matrix Multiplication
 
 Traditionally, we have the naive matrix multiplication algorithm that has a run time of O(n^3).
@@ -58,8 +56,7 @@ The following are the run times in nanoseconds for naive multiplication for each
 **[13667,167458,1528167,6089083,37305625,293018917,2570162084,48415577291,1105041955417]**
 
 ## Plot obtained:
-
-![Untitled](Untitled%20cf43504257264bd285f5de37870c78b9/Untitled.png)
+<img width="420" alt="Untitled" src="https://user-images.githubusercontent.com/102587700/227623099-2a384594-700e-4286-949d-402a2bc50333.png">
 
 # Observation
 
